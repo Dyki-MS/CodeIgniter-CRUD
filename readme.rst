@@ -1,8 +1,11 @@
 *******************
 Program Information
 *******************
+Import database dengan phpmyadmin atau yang lain. 
+Login default:
+User: admin
+Pass: admin
 
-Import database dengan phpmyadmin atau yang lain.
 Fitur:
 => CRUD
 => Upload image
