@@ -1,3 +1,12 @@
+*******************
+Program Information
+*******************
+
+Import database dengan phpmyadmin atau yang lain.
+Fitur:
+=> CRUD
+=> Upload image
+
 ###################
 What is CodeIgniter
 ###################
